@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+}
+
+/* WRAPPER */
+
+#wrapper{
+  width: 100%;
+  height: 100%;
+
+  background-color: #fff;
+}
+
+/* HEADER */
+
+#header{
+  width: 100%;
+  height: 40px;
+
+  background-color: #d2d2d2;
+  border-bottom: 1px solid #ededed;
+}
